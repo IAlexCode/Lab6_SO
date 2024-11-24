@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Alex\Desktop\Lab6_SO\Lab6_SO\ConsoleApplication1\ConsoleApplication1.cpp(40,56): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Alex\Desktop\Lab6_SO\Lab6_SO\ConsoleApplication1\ConsoleApplication1.cpp(93,15): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+C:\Users\Alex\Desktop\Lab6_SO\Lab6_SO\ConsoleApplication1\ConsoleApplication1.cpp(107,15): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+  ConsoleApplication1.vcxproj -> C:\Users\Alex\Desktop\Lab6_SO\Lab6_SO\x64\Debug\ConsoleApplication1.exe
